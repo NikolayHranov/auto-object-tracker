@@ -1,0 +1,9 @@
+{
+    "axis_angle": 0,
+
+    "c_hsv_range": [20, 50, 50],
+
+    "failed_frames_limit": 5,
+
+    "processes": 5
+}
