@@ -91,6 +91,10 @@ In this file (and only this file) you can choose the videos from the directory t
 ```
 
 
+### Tracking data
+
+The obtained tracking data is saved in CSV format in the same directory as the video file.
+
 ### Example
 
 `track.json`
